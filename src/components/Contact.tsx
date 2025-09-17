@@ -10,14 +10,14 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                satwikmishra46@gmail.com
+              <a href="mailto:zanixdevv@gmail.com" data-cursor="disable">
+                zanixdevv@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                +91 7068116082
+              <a href="tel:+917060782247" data-cursor="disable">
+                +91 7060782247
               </a>
             </p>
           </div>
@@ -58,7 +58,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>ZANIX</span>
+              Designed and Developed <br /> by <span>Zanix</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
